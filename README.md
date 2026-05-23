@@ -1,16 +1,50 @@
-## Hi there 👋
+# Test Project
 
-<!--
-**Pepan395/Pepan395** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 About
 
-Here are some ideas to get you started:
+This is a test project used to demonstrate a basic README structure.
+It has no production purpose and is only for development/testing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Installation
+
+```bash
+git clone https://github.com/username/test-project.git
+cd test-project
+```
+
+## ▶️ Usage
+
+Run the project depending on your setup:
+
+```bash
+python main.py
+```
+
+or
+
+```bash
+node index.js
+```
+
+## 📁 Project Structure
+
+```
+/test-project
+ ├── README.md
+ ├── main.py (or index.js)
+ └── config/
+```
+
+## ⚙️ Features
+
+* Basic project structure
+* README template example
+* Placeholder for future development
+
+## 🧠 Notes
+
+This project is intended for testing purposes only.
+
+## 📄 License
+
+MIT License (or change as needed)
