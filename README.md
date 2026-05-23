@@ -40,11 +40,22 @@ node index.js
 * Basic project structure
 * README template example
 * Placeholder for future development
+* Simple CLI-friendly setup
+
+## 🔧 Requirements
+
+* Python 3.10+ or Node.js 18+
+* Git installed
 
 ## 🧠 Notes
 
 This project is intended for testing purposes only.
+It may change frequently and is not stable.
 
 ## 📄 License
 
 MIT License (or change as needed)
+
+## 🤝 Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
